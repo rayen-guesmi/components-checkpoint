@@ -1,0 +1,25 @@
+.my-image{
+    width: 40%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.my-name{
+
+    width: 40%;
+    text-justify: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:bisque;
+color: firebrick;
+}
+.my-address{
+    width: 40%;
+    text-justify: auto;
+    display: flex;
+    justify-content: space-between;   
+    background-color: bisque;
+    color: firebrick;
+    align-items: center;
+}
